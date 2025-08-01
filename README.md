@@ -52,6 +52,9 @@
 - Add more LEDs for 6/3.3V statuses.
 - Clean up traces.
 
+### Manufactured PCB
+![Test](images/robot_dev_board_physical.png)
+
 ### Top view of routing and components
 ![Test](images/robot_dev_board_traces.png)
 
